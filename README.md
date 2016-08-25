@@ -4,7 +4,7 @@
 ***
   This is an ERP system coded by PHP with no popular PHP-Framework, which means that I just make a crude PHP work. But don't be surprised by it,after all, it's just a try in programming with PHP.
   
-  ### And I promiss I'll produce a whole new PHP work with all sorts of popular PHP Framework in resent future.
+### And I promiss I'll produce a whole new PHP work with all sorts of popular PHP Framework in resent future.
 ***
 ```
 Scofield.Phil
