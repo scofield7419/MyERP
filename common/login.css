@@ -1,0 +1,165 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	outline: none;
+}
+
+body {
+	background: #016aa9;
+	Line-height: 22px;
+	color: #e1e1e1;
+}
+
+body.frame {
+	background: steelblue;
+	Line-height: 22px;
+	color: #e1e1e1;
+}
+
+li.mylist {
+	margin-left: 6px;
+	margin-top: 8px;
+	text-decoration: none;
+}
+
+#welcome {
+	position: relative;
+	width: 700px;
+	top: 100px;
+	height: 200px;
+	text-align: center;
+	font-size: 30pt;
+	margin: auto;
+	padding-top: 20pd;
+}
+
+#container {
+	background: url(loging.png) no-repeat #016aa9;
+	background-size: contain;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 150px;
+	width: 915px;
+	height: 410px;
+	text-align: left;
+	font-size: 15px;
+}
+
+#login_logo {
+	background: url("logo.png") no-repeat scroll center center;
+	border: none;
+	margin-left: 310px;
+	height: 74px;
+	padding: 0;
+	width: 70px;
+}
+
+#login_box {
+	margin-left: 380px;
+	width: 180px;
+}
+
+a.company {
+	font-family: Arial, Verdana, Helvetica, sans-serif;
+	font-weight: bold;
+	color: black;
+	text-align: center;
+}
+
+a.fast {
+	font-family: Arial, Verdana, Helvetica, sans-serif;
+	font-weight: bold;
+	color: orange;
+	font-size: 15pt;
+	text-align: center;
+	text-decoration: none;
+}
+
+select {
+	margin-top: 13px;
+	color: #e1e1e1;
+	width: 120px;
+	height: 25px;
+	border-radius: 8px 8px 8px 8px;
+	background-color: transparent;
+	border: 1px solid;
+	border-color: #1a4e6f #1a4c6d #356795 #1b5c6e;
+	box-shadow: 10px 10px 13px #000028 inset; /* 阴影 */
+	Text-indent: 0.2em;
+}
+
+input {
+	color: #e1e1e1;
+	width: 170px;
+	height: 25px;
+	border: 1px solid;
+	border-color: #1a4e6f #1a4c6d #244766 #1b5c6e;
+	background-color: transparent;
+	border-radius: 14px;
+	box-shadow: 10px 10px 13px #000028 inset; /* 阴影 */
+	Text-indent: 1em;
+}
+
+input[type="submit"] {
+	margin-top: 39px;
+	margin-left: -58px;
+	width: 150px;
+	height: 34px;
+	font-size: 20px;
+	border-radius: 3px;
+	color: #f03a0d;
+	box-shadow: -2px 0px 13px #094a73 inset; /* 阴影 */
+	border: 0;
+	Text-indent: 0;
+}
+
+#sep {
+	margin-top: 11px;
+}
+
+input[type="submit"]:hover {
+	color: #ff0000;
+	margin-top: 39px;
+	margin-left: -58px;
+	width: 150px;
+	height: 34px;
+	font-size: 20px;
+	box-shadow: -2px 0px 13px #ff8000 inset; /* 阴影 */
+	border-radius: 3px;
+	border: 0;
+	Text-indent: 0;
+}
+
+input[type="submit"]:active {
+	color: red;
+	margin-top: 39px;
+	margin-left: -58px;
+	width: 150px;
+	height: 34px;
+	font-size: 20px;
+	box-shadow: -2px 0px 13px #ffffff inset; /* 阴影 */
+	border-radius: 3px;
+	border: 0;
+	Text-indent: 0;
+}
+
+input: hover {
+	
+}
+
+#demo_text {
+	color: red;
+	width: 200px;
+	margin-top: 30px;
+	margin-left: -58px;
+}
+
+#entry {
+	position: relative;
+	width: auto;
+	height: 200px;
+	text-align: center;
+	font-size: 15pt;
+	margin-top: 10px;
+}
+/*END*/
